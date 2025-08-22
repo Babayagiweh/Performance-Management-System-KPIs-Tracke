@@ -12,10 +12,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Babayagiweh/Performance-Management-System-KPIs-Tracke.git
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd Performance-Management-System-KPIs-Tracke
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -38,9 +38,9 @@ npm run dev
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
 
-This project is built with:
+
+**This project is built with:**
 
 - Vite
 - TypeScript
@@ -48,3 +48,5 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+NOTE: 
+**VERSION 2.0 WILL COME WITH THE BACKEND!!!**
